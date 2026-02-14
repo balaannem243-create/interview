@@ -821,10 +821,3 @@ Example:
 If you can confidently answer **15–20 of these**, you are already at **senior backend engineer level** in interviews.
 
 ---
-
-If you want next, I can:
-1️⃣ Do **mock interview Q&A** (I ask, you answer)
-2️⃣ Provide **whiteboard explanation practice**
-3️⃣ Tailor questions for **Java / Banking / Cloud roles**
-
-Just tell me what you want to practice next.
